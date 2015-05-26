@@ -35,6 +35,7 @@ void draw() {
   fill(0);
   text("c = captura de pantalla.",width-175,35);
   text("t = línies debugg.",width-175,65);
+  text("+ o - = SpeedUp o Down.",width-175,95);
 }
 
 void lleiNais(int tipusLlei) {
